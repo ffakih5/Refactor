@@ -3,4 +3,4 @@
 <img width="527" alt="Homework Screenshot" src="https://user-images.githubusercontent.com/73615662/99756038-4b876d80-2b40-11eb-952b-5c889b1121b8.png">
 
 [Link to Deployed Application](https://ffakih5.github.io/Refactor/)
-https://www.youtube.com/watch?v=hHbWF1Bvgf4
+*Ufeful Resources* https://www.youtube.com/watch?v=hHbWF1Bvgf4
