@@ -14,9 +14,9 @@
 
 ##### Contributors: **@Norbu and classmates 🏆 A special thanks for your patience and putting up with my Questions! 
 
-[Link to Deployed Application](https://ffakih5.github.io/Refactor/)
+######[Check out Horiseon's page here!](https://ffakih5.github.io/Refactor/)
 
-Ufeful Resources https://www.youtube.com/watch?v=hHbWF1Bvgf4
+**Useful Resources** https://www.youtube.com/watch?v=hHbWF1Bvgf4
 
 [ ] One final commit to even out the page layout as I encountered the below and accepted defeat after a long day. 
 
