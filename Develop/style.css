@@ -107,6 +107,8 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* Do not show .footer h4 {
-    font-size: 20px;*/
+
+/* Do not display 
+.footer h4 {font-size: 20px;
 }
+*/ 
